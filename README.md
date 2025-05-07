@@ -4,7 +4,7 @@ This project demonstrates form handling and validation in React Native using Exp
 
 ## Samples
 
-| Validation error                                                                                     | Success                                                                                     |
+| Success                                                                                              | Validation error                                                                            |
 | ---------------------------------------------------------------------------------------------------- | ------------------------------------------------------------------------------------------- |
 | ![Validation error](https://github.com/user-attachments/assets/2c373454-2e78-41c5-b9fe-8d5ed0feb4b6) | ![Success](https://github.com/user-attachments/assets/759d6c3d-8397-4df6-963a-19732e946c34) |
 

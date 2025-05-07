@@ -4,9 +4,9 @@ This project demonstrates form handling and validation in React Native using Exp
 
 ## Samples
 
-| Validation error                                                                                                                        | Success                                                                                                                                 |
-| --------------------------------------------------------------------------------------------------------------------------------------- | --------------------------------------------------------------------------------------------------------------------------------------- |
-| <video src="https://github.com/user-attachments/assets/570386ca-4c47-41c0-9659-3b4a394de765" width=250 autoplay loop muted playsinline> | <video src="https://github.com/user-attachments/assets/d9da63d6-4a7c-47c8-b92a-7a1b9edfd71b" width=250 autoplay loop muted playsinline> |
+| Validation error                                                                                     | Success                                                                                     |
+| ---------------------------------------------------------------------------------------------------- | ------------------------------------------------------------------------------------------- |
+| ![Validation error](https://github.com/user-attachments/assets/2c373454-2e78-41c5-b9fe-8d5ed0feb4b6) | ![Success](https://github.com/user-attachments/assets/759d6c3d-8397-4df6-963a-19732e946c34) |
 
 ## Get started
 
